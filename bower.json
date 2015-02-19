@@ -1,0 +1,21 @@
+{
+  "name": "example2",
+  "version": "0.0.1",
+  "authors": [
+    "Gemma <gemma@netagenda.com>"
+  ],
+  "description": "a simple test",
+  "main": "rotate.js",
+  "keywords": [
+    "rotate"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
